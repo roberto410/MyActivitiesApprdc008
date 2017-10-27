@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Activities App</string>
+    <string name="action_settings">Settings</string>
+    <string name="ma_title_hint">Enter a title for the activity.</string>
+    <string name="ma_title_label">Title</string>
+    <string name="ma_details_label">Details</string>
+    <string name="new_ma">Log</string>
+    <string name="settings_ma">Settings</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="ma_comment_hint">Enter a comment about the activity</string>
+    <string name="ma_duration_hint">Enter a Duration e.g. 2 Hours</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="google_maps_key">AIzaSyBxP34tuukw7g4a-bYztQDZ3f9fM2ornRk</string>
+
+    <string-array name="activity_type_categories">
+        <item>Work</item>
+        <item>Study</item>
+        <item>Leisure</item>
+        <item>Sport</item>
+    </string-array>
+
+</resources>
